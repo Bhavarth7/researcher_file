@@ -1,4 +1,4 @@
-**Pitch Document: Strategic Legal Insights for Business Development**
+**Document: Strategic Legal Insights for Business Development**
 
 ---
 
@@ -38,6 +38,7 @@ Thank you for considering our organization as your trusted legal partner. We loo
 Warm regards,
 
 Bhavarth Bhangdia 
+
 Researcher  
 
 
